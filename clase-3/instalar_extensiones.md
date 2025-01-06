@@ -84,3 +84,5 @@ Descripción: Integrates ESLint JavaScript into VS Code.
 Versión: 3.0.10
 Editor: Microsoft
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+
+
